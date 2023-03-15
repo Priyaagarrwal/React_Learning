@@ -1,5 +1,8 @@
 import React from 'react';
-function CHeader(){
-return <h1>Hello Functional Component</h1>
+class CHeader extends React.Component
+{
+    render(){
+return <h1>Hello Class Component</h1>
+}
 }
 export default CHeader;
