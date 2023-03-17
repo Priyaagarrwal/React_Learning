@@ -12,7 +12,7 @@ class App extends React.Component
       </Header>
       <Header name="vivek" last="verma"/>
       <Header name="rahul"/>
-      <CHeader name="Priya" last="Agarwal"/>
+      <CHeader name="Priya" last="Developer"/>
       </div>
     );
   }
