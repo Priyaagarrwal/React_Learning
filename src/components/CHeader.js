@@ -5,4 +5,4 @@ class CHeader extends React.Component
 return <h1>Hello {this.props.name} - {this.props.last}</h1>
 }
 }
-export default CHeader;
+export default CHeadrer;
