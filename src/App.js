@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import {Header} from './components/Header'
 import CHeader from './components/CHeader'
+import Channel from './components/Channel'
 class App extends React.Component
 {
   render(){
@@ -12,7 +13,8 @@ class App extends React.Component
       </Header>
       <Header name="vivek" last="verma"/>
       <Header name="rahul"/>
-      <CHeader name="Priya" last="Developer"/>
+      <CHeader name="Priya" last="Agarwal"/>
+      <Channel/>
       </div>
     );
   }
