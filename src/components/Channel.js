@@ -5,7 +5,7 @@ constructor()
 {
 super();
 this.state={
- msg:'Hello React Learning'
+ msg:'Hello React Learning to become frontend developer'
 }
 
 
